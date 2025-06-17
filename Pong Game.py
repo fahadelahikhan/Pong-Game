@@ -1,5 +1,5 @@
 """
-Pong Game - Refactored Version
+Pong Game - Using Turtle Graphics
 A classic Pong game implementation using object-oriented programming principles.
 """
 import turtle
